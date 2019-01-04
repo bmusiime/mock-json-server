@@ -15,6 +15,5 @@ Customise routes to simulate your own API, example:
 {
   "/api/*": "/$1"
 }
-
 ```
 will support accessing posts via: http://localhost:3000/api/posts and http://localhost:3000/api/posts/1
