@@ -17,4 +17,4 @@ Customise routes to simulate your own API, example:
 }
 
 ```
-will support accessing posts via: http://localhost:3000/api/posts
+will support accessing posts via: http://localhost:3000/api/posts and http://localhost:3000/api/posts/1
